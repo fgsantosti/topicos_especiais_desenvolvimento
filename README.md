@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Análise de Dados — E-commerce no Brasil (EDA, Visualização e Estatística)
 
 Este repositório traz uma base de dados sintética e um conjunto de questões orientadoras para praticar:
@@ -61,7 +58,6 @@ notebooks/
   05_estatistica_descritiva.ipynb
 src/
   carregar_dados.py
-README.md
 ```
 
 4) Carregamento rápido (exemplo)
