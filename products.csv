@@ -1,0 +1,301 @@
+id_produto,categoria,subcategoria,preco_lista
+1,Eletrônicos,Smartphone,5238.15
+2,Eletrônicos,Smartphone,2050.37
+3,Eletrônicos,Smartphone,1655.22
+4,Eletrônicos,Smartphone,4291.19
+5,Eletrônicos,Smartphone,7761.87
+6,Eletrônicos,Smartphone,5415.42
+7,Eletrônicos,Smartphone,6202.04
+8,Eletrônicos,Smartphone,2090.8
+9,Eletrônicos,Smartphone,1404.03
+10,Eletrônicos,Smartphone,1248.43
+11,Eletrônicos,Smartphone,2186.2
+12,Eletrônicos,Smartphone,3412.36
+13,Eletrônicos,Notebook,1169.52
+14,Eletrônicos,Notebook,5980.74
+15,Eletrônicos,Notebook,1772.69
+16,Eletrônicos,Notebook,4279.91
+17,Eletrônicos,Notebook,3625.25
+18,Eletrônicos,Notebook,4121.22
+19,Eletrônicos,Notebook,7270.48
+20,Eletrônicos,Notebook,2812.26
+21,Eletrônicos,Notebook,7172.36
+22,Eletrônicos,Notebook,6002.78
+23,Eletrônicos,Notebook,2868.24
+24,Eletrônicos,Notebook,3298.84
+25,Eletrônicos,Fone de Ouvido,5816.28
+26,Eletrônicos,Fone de Ouvido,2896.43
+27,Eletrônicos,Fone de Ouvido,3803.65
+28,Eletrônicos,Fone de Ouvido,4969.34
+29,Eletrônicos,Fone de Ouvido,5633.88
+30,Eletrônicos,Fone de Ouvido,4932.38
+31,Eletrônicos,Fone de Ouvido,3716.55
+32,Eletrônicos,Fone de Ouvido,7382.57
+33,Eletrônicos,Fone de Ouvido,627.14
+34,Eletrônicos,Fone de Ouvido,3305.72
+35,Eletrônicos,Fone de Ouvido,5952.51
+36,Eletrônicos,Fone de Ouvido,1575.82
+37,Eletrônicos,Tablet,4728.59
+38,Eletrônicos,Tablet,7696.35
+39,Eletrônicos,Tablet,4117.12
+40,Eletrônicos,Tablet,7204.82
+41,Eletrônicos,Tablet,4605.76
+42,Eletrônicos,Tablet,3637.95
+43,Eletrônicos,Tablet,6921.93
+44,Eletrônicos,Tablet,3388.13
+45,Eletrônicos,Tablet,411.35
+46,Eletrônicos,Tablet,1012.05
+47,Eletrônicos,Tablet,975.64
+48,Eletrônicos,Tablet,3298.03
+49,Eletrônicos,TV,301.42
+50,Eletrônicos,TV,4747.72
+51,Eletrônicos,TV,2223.5
+52,Eletrônicos,TV,3393.41
+53,Eletrônicos,TV,6156.13
+54,Eletrônicos,TV,6438.87
+55,Eletrônicos,TV,5141.13
+56,Eletrônicos,TV,4300.38
+57,Eletrônicos,TV,1118.46
+58,Eletrônicos,TV,6671.99
+59,Eletrônicos,TV,7016.34
+60,Eletrônicos,TV,7332.41
+61,Casa & Cozinha,Liquidificador,1120.15
+62,Casa & Cozinha,Liquidificador,468.61
+63,Casa & Cozinha,Liquidificador,740.27
+64,Casa & Cozinha,Liquidificador,95.22
+65,Casa & Cozinha,Liquidificador,915.42
+66,Casa & Cozinha,Liquidificador,1105.87
+67,Casa & Cozinha,Liquidificador,1237.7
+68,Casa & Cozinha,Liquidificador,573.41
+69,Casa & Cozinha,Liquidificador,696.71
+70,Casa & Cozinha,Liquidificador,1219.51
+71,Casa & Cozinha,Liquidificador,759.67
+72,Casa & Cozinha,Liquidificador,1073.08
+73,Casa & Cozinha,Panela,99.22
+74,Casa & Cozinha,Panela,1419.19
+75,Casa & Cozinha,Panela,1251.93
+76,Casa & Cozinha,Panela,161.58
+77,Casa & Cozinha,Panela,507.17
+78,Casa & Cozinha,Panela,1334.67
+79,Casa & Cozinha,Panela,80.84
+80,Casa & Cozinha,Panela,1497.0
+81,Casa & Cozinha,Panela,959.88
+82,Casa & Cozinha,Panela,660.97
+83,Casa & Cozinha,Panela,466.5
+84,Casa & Cozinha,Panela,1482.2
+85,Casa & Cozinha,Cafeteira,1427.44
+86,Casa & Cozinha,Cafeteira,1419.86
+87,Casa & Cozinha,Cafeteira,385.92
+88,Casa & Cozinha,Cafeteira,384.47
+89,Casa & Cozinha,Cafeteira,557.68
+90,Casa & Cozinha,Cafeteira,1492.62
+91,Casa & Cozinha,Cafeteira,273.15
+92,Casa & Cozinha,Cafeteira,909.76
+93,Casa & Cozinha,Cafeteira,237.8
+94,Casa & Cozinha,Cafeteira,1000.1
+95,Casa & Cozinha,Cafeteira,426.64
+96,Casa & Cozinha,Cafeteira,1040.73
+97,Casa & Cozinha,Aspirador,908.99
+98,Casa & Cozinha,Aspirador,437.19
+99,Casa & Cozinha,Aspirador,1307.58
+100,Casa & Cozinha,Aspirador,946.99
+101,Casa & Cozinha,Aspirador,92.41
+102,Casa & Cozinha,Aspirador,283.1
+103,Casa & Cozinha,Aspirador,466.21
+104,Casa & Cozinha,Aspirador,969.31
+105,Casa & Cozinha,Aspirador,834.84
+106,Casa & Cozinha,Aspirador,198.64
+107,Casa & Cozinha,Aspirador,1076.85
+108,Casa & Cozinha,Aspirador,116.33
+109,Casa & Cozinha,Filtro de Água,238.63
+110,Casa & Cozinha,Filtro de Água,758.53
+111,Casa & Cozinha,Filtro de Água,1495.83
+112,Casa & Cozinha,Filtro de Água,1055.84
+113,Casa & Cozinha,Filtro de Água,446.23
+114,Casa & Cozinha,Filtro de Água,658.6
+115,Casa & Cozinha,Filtro de Água,643.53
+116,Casa & Cozinha,Filtro de Água,994.92
+117,Casa & Cozinha,Filtro de Água,319.01
+118,Casa & Cozinha,Filtro de Água,1153.48
+119,Casa & Cozinha,Filtro de Água,944.14
+120,Casa & Cozinha,Filtro de Água,1044.07
+121,Beleza,Shampoo,176.02
+122,Beleza,Shampoo,62.02
+123,Beleza,Shampoo,423.09
+124,Beleza,Shampoo,80.86
+125,Beleza,Shampoo,378.53
+126,Beleza,Shampoo,320.27
+127,Beleza,Shampoo,250.22
+128,Beleza,Shampoo,136.09
+129,Beleza,Shampoo,38.32
+130,Beleza,Shampoo,525.16
+131,Beleza,Shampoo,66.47
+132,Beleza,Shampoo,393.28
+133,Beleza,Perfume,163.32
+134,Beleza,Perfume,215.4
+135,Beleza,Perfume,342.11
+136,Beleza,Perfume,397.19
+137,Beleza,Perfume,169.46
+138,Beleza,Perfume,266.79
+139,Beleza,Perfume,522.88
+140,Beleza,Perfume,526.59
+141,Beleza,Perfume,549.17
+142,Beleza,Perfume,96.31
+143,Beleza,Perfume,583.41
+144,Beleza,Perfume,525.03
+145,Beleza,Creme,114.84
+146,Beleza,Creme,208.61
+147,Beleza,Creme,156.91
+148,Beleza,Creme,500.75
+149,Beleza,Creme,116.88
+150,Beleza,Creme,295.29
+151,Beleza,Creme,139.39
+152,Beleza,Creme,563.23
+153,Beleza,Creme,203.37
+154,Beleza,Creme,579.77
+155,Beleza,Creme,283.75
+156,Beleza,Creme,37.38
+157,Beleza,Maquiagem,582.55
+158,Beleza,Maquiagem,122.75
+159,Beleza,Maquiagem,308.36
+160,Beleza,Maquiagem,559.95
+161,Beleza,Maquiagem,248.44
+162,Beleza,Maquiagem,47.96
+163,Beleza,Maquiagem,348.87
+164,Beleza,Maquiagem,407.2
+165,Beleza,Maquiagem,494.34
+166,Beleza,Maquiagem,232.55
+167,Beleza,Maquiagem,157.78
+168,Beleza,Maquiagem,407.56
+169,Beleza,Protetor Solar,321.07
+170,Beleza,Protetor Solar,251.32
+171,Beleza,Protetor Solar,491.53
+172,Beleza,Protetor Solar,24.39
+173,Beleza,Protetor Solar,54.96
+174,Beleza,Protetor Solar,168.93
+175,Beleza,Protetor Solar,200.56
+176,Beleza,Protetor Solar,90.69
+177,Beleza,Protetor Solar,431.25
+178,Beleza,Protetor Solar,300.46
+179,Beleza,Protetor Solar,571.81
+180,Beleza,Protetor Solar,142.99
+181,Esporte,Tênis,748.77
+182,Esporte,Tênis,2019.27
+183,Esporte,Tênis,545.64
+184,Esporte,Tênis,119.73
+185,Esporte,Tênis,1203.17
+186,Esporte,Tênis,2100.68
+187,Esporte,Tênis,2974.21
+188,Esporte,Tênis,858.77
+189,Esporte,Tênis,1003.95
+190,Esporte,Tênis,249.46
+191,Esporte,Tênis,1970.09
+192,Esporte,Tênis,2982.71
+193,Esporte,Camiseta,227.42
+194,Esporte,Camiseta,642.75
+195,Esporte,Camiseta,1075.34
+196,Esporte,Camiseta,1227.98
+197,Esporte,Camiseta,2534.0
+198,Esporte,Camiseta,426.75
+199,Esporte,Camiseta,944.23
+200,Esporte,Camiseta,1683.72
+201,Esporte,Camiseta,1571.25
+202,Esporte,Camiseta,665.11
+203,Esporte,Camiseta,2640.02
+204,Esporte,Camiseta,288.71
+205,Esporte,Garrafa,2928.05
+206,Esporte,Garrafa,2772.13
+207,Esporte,Garrafa,1532.57
+208,Esporte,Garrafa,126.15
+209,Esporte,Garrafa,1325.87
+210,Esporte,Garrafa,1940.44
+211,Esporte,Garrafa,230.98
+212,Esporte,Garrafa,220.45
+213,Esporte,Garrafa,408.09
+214,Esporte,Garrafa,1552.8
+215,Esporte,Garrafa,1890.49
+216,Esporte,Garrafa,1376.86
+217,Esporte,Bicicleta,2214.16
+218,Esporte,Bicicleta,106.62
+219,Esporte,Bicicleta,684.85
+220,Esporte,Bicicleta,2880.75
+221,Esporte,Bicicleta,2540.85
+222,Esporte,Bicicleta,2225.2
+223,Esporte,Bicicleta,2365.8
+224,Esporte,Bicicleta,2080.0
+225,Esporte,Bicicleta,2710.2
+226,Esporte,Bicicleta,1928.18
+227,Esporte,Bicicleta,2225.43
+228,Esporte,Bicicleta,2163.15
+229,Esporte,Bola,2225.65
+230,Esporte,Bola,2001.04
+231,Esporte,Bola,2304.9
+232,Esporte,Bola,921.56
+233,Esporte,Bola,408.09
+234,Esporte,Bola,173.76
+235,Esporte,Bola,1825.55
+236,Esporte,Bola,427.88
+237,Esporte,Bola,1324.63
+238,Esporte,Bola,408.43
+239,Esporte,Bola,2457.04
+240,Esporte,Bola,2277.37
+241,Livros,Ficção,51.94
+242,Livros,Ficção,49.67
+243,Livros,Ficção,111.05
+244,Livros,Ficção,111.5
+245,Livros,Ficção,134.53
+246,Livros,Ficção,64.4
+247,Livros,Ficção,164.01
+248,Livros,Ficção,53.84
+249,Livros,Ficção,156.98
+250,Livros,Ficção,86.23
+251,Livros,Ficção,199.34
+252,Livros,Ficção,126.75
+253,Livros,Não-ficção,131.53
+254,Livros,Não-ficção,106.58
+255,Livros,Não-ficção,120.92
+256,Livros,Não-ficção,168.51
+257,Livros,Não-ficção,161.28
+258,Livros,Não-ficção,46.54
+259,Livros,Não-ficção,127.68
+260,Livros,Não-ficção,95.82
+261,Livros,Não-ficção,171.16
+262,Livros,Não-ficção,85.2
+263,Livros,Não-ficção,69.15
+264,Livros,Não-ficção,97.34
+265,Livros,Educação,102.47
+266,Livros,Educação,109.36
+267,Livros,Educação,129.84
+268,Livros,Educação,32.41
+269,Livros,Educação,183.13
+270,Livros,Educação,159.81
+271,Livros,Educação,183.16
+272,Livros,Educação,181.97
+273,Livros,Educação,188.63
+274,Livros,Educação,196.63
+275,Livros,Educação,103.51
+276,Livros,Educação,47.22
+277,Livros,HQ,114.21
+278,Livros,HQ,147.41
+279,Livros,HQ,49.84
+280,Livros,HQ,94.12
+281,Livros,HQ,165.15
+282,Livros,HQ,66.55
+283,Livros,HQ,56.88
+284,Livros,HQ,101.22
+285,Livros,HQ,103.51
+286,Livros,HQ,138.22
+287,Livros,HQ,56.68
+288,Livros,HQ,134.22
+289,Livros,Infantil,48.43
+290,Livros,Infantil,183.11
+291,Livros,Infantil,53.16
+292,Livros,Infantil,130.75
+293,Livros,Infantil,194.08
+294,Livros,Infantil,49.87
+295,Livros,Infantil,120.76
+296,Livros,Infantil,151.67
+297,Livros,Infantil,147.84
+298,Livros,Infantil,84.4
+299,Livros,Infantil,148.16
+300,Livros,Infantil,82.63
